@@ -1,6 +1,6 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -16,6 +16,7 @@ header {
 
 .logo {
     font-size: 24px;
+    font-weight: bold;
 }
 
 nav ul {
@@ -30,6 +31,7 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .banner {
@@ -52,6 +54,7 @@ nav ul li a {
     text-decoration: none;
     border-radius: 5px;
     margin-top: 20px;
+    font-weight: bold;
 }
 
 .featured-products {
